@@ -1,0 +1,6 @@
+.pl.key{
+  border-color:var(--gold);
+  background:linear-gradient(135deg, rgba(201,162,39,.18), rgba(201,162,39,.04));
+  color:var(--gold-l);
+}
+.pl.key .pos{color:var(--gold)}
